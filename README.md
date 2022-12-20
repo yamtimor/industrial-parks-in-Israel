@@ -1,5 +1,4 @@
 # Industrial Parks in Israel Data Analysis 
-
 This repository contains a data analysis project focusing on industrial parks in Israel. This analysis utilizes Python and various techniques to analyze the data and draw meaningful conclusions. It also provides useful visualizations and insights into the data.
 
 ## Overview
@@ -10,3 +9,4 @@ This project uses Python to analyze the data. Various techniques such as statist
 
 ## Source
 https://data.gov.il/dataset/industrial-zones-info
+
